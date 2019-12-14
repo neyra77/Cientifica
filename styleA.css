@@ -3,6 +3,9 @@ html {
 	font-size: 16;
 }
 
+
+/* Rules for Lists */
+
 /* This is for the syllabus links */
 li>a {
 	text-decoration:none;
@@ -11,3 +14,10 @@ li>a {
 li>a:hover {
 	color: red;
 }
+
+li.missingLink {
+	color: #888888;
+}
+
+
+/* End rules for lists */
