@@ -5,7 +5,6 @@ html {
 
 
 /* Rules for Lists */
-
 /* This is for the syllabus links */
 li>a {
 	text-decoration:none;
@@ -15,9 +14,27 @@ li>a:hover {
 	color: red;
 }
 
+/* Grey color for links without syllabus yet. */
 li.missingLink {
 	color: #A8A8A8;
 }
 
+/* Green whatsapp color for the conversation whatsapp link. */
+a.whatsapplink {
+	color: #1ebea5; 
+}
+
 
 /* End rules for lists */
+
+
+
+
+
+
+
+
+
+
+
+
