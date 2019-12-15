@@ -18,15 +18,14 @@ li>a:hover {
 li.missingLink {
 	color: #A8A8A8;
 }
-
-/* Green whatsapp color for the conversation whatsapp link. */
-a.whatsapplink {
-	color: #1ebea5; 
-}
-
-
 /* End rules for lists */
 
+
+/* Rules for span */
+/* Special spans for any contact info. */
+span.contact_info {
+	font-family: monospace;
+}
 
 
 
