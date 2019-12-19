@@ -27,6 +27,11 @@ span.contact_info {
 	font-family: monospace;
 }
 
+span.last_updated {
+	font-size: small;
+	text-transform: uppercase;
+	background-color: #fffdd4;
+}
 
 
 
