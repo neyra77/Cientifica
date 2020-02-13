@@ -27,6 +27,16 @@ span.contact_info {
 	font-family: monospace;
 }
 
+/* Whatsapp contact info. */
+.whatsappinfo {
+	text-decoration: none;
+	color: #1ebea5;
+}
+
+/* End Whatsapp contact info. */
+
+
+
 span.last_updated {
 	font-size: small;
 	text-transform: uppercase;
