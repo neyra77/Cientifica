@@ -1,38 +1,39 @@
 html {
-	font-family: "Arial";
-	font-size: 16;
+  	font-family: "Arial";
+  	font-size: 16;
 }
-
 
 /* Intro rules */
 .well-important {
-  background-color: #FFFCBA;
-  border-color: #9c973e;
+	background-color: #FFFCBA;
+ 	border-color: #9c973e;
 }
 
 /* This part comes from the Stanford CS107 page. */ 
 /* Announcements pane on landing page */
 .announcements {
-  background-color: white;
-  border: none;
-  box-shadow: inset 0 0 10px black;
-  padding-right: 1em;
+  	font-family: "Helvetica Neue";
+  	background-color: white;
+  	border: none;
+  	box-shadow: inset 0 0 10px black;
+  	padding-right: 1em;
+  	padding-left: 1em;
 }
 
 .announcements .list-group-item {
-  background-color: transparent;
+  	background-color: transparent;
 }
 
 .announcements .list-group-item p:first-child::first-line {
-  font-family: Arial; /* hack to work around Safari display issue */
-  font-weight: bold;
+  	font-family: Arial; /* hack to work around Safari display issue */
+  	font-weight: bold;
 }
 
 span.post {
-  display: block;
-  font-size: .7em;
-  font-style: italic;
-  margin-bottom: 3px;
+  	display: block;
+  	font-size: .7em;
+  	font-style: italic;
+  	margin-bottom: 3px;
 }
 /* End Intro rules */
 
