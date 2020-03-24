@@ -43,6 +43,7 @@ body {
 
 .announcements .list-group-item {
   	background-color: transparent;
+	border bottom: thin dotted gray;
 }
 
 .announcements .list-group-item p:first-child::first-line {
