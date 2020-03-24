@@ -85,6 +85,12 @@ li.missingLink {
 /* End rules for lists */
 
 
+/* Rules for div */
+div.semester {
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+
 /* Rules for span */
 /* Special spans for any contact info. */
 span.contact_info {
