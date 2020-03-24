@@ -6,12 +6,8 @@ html {
 
 /* Intro rules */
 .well-important {
-    background-color: #FFFCBA;
-        border-color: #9c973e;
-}
-
-.announcements {
-
+  background-color: #FFFCBA;
+  border-color: #9c973e;
 }
 
 /* This part comes from the Stanford CS107 page. */ 
@@ -20,7 +16,7 @@ html {
   background-color: white;
   border: none;
   box-shadow: inset 0 0 10px black;
-  padding: 1em;
+  padding-right: 1em;
 }
 
 .announcements .list-group-item {
@@ -38,7 +34,6 @@ span.post {
   font-style: italic;
   margin-bottom: 3px;
 }
-
 /* End Intro rules */
 
 
