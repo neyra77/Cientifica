@@ -1,10 +1,9 @@
 html {
- 
+
 }
 
 body {
-	font-family: "Arial";
-  	font-size: 16;
+	font: 13px Arial;  
 	line-height: 1.42857143;
 }
 
