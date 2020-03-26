@@ -9,7 +9,7 @@ body {
 
 /* The main container */
 .container {
-	/*max-width:50em;*/
+	max-width:50em; /* Remove to widen it out */
 	padding-right: 15px;
 	padding-left: 15px;
 	margin-right: auto;
