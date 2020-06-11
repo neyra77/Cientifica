@@ -1,3 +1,6 @@
+/* TODO: get the separation line in announcements */
+
+
 html {
 
 }
@@ -42,7 +45,6 @@ body {
 }
 
 .announcements .list-group-item {
-  	background-color: transparent;
 	border bottom: thin dotted gray;
 }
 
