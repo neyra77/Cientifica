@@ -65,8 +65,19 @@ span.post {
 
 /* Whatsapp contact info. */
 .whatsappinfo {
+	/*text-decoration: none;
+	color: #1ebea5;*/
+	background-color: #01e675;
+	color: #fff !important;
+	border-radius: 40px;
+	display: inline- block;
+	font-weight: 500px;
+	letter-spacing: 0.071em;
+	line-height: 19px;
+	padding: 4.5px 8px;
+	text-transform: uppercase;
+	white-space: nowrap;
 	text-decoration: none;
-	color: #1ebea5;
 }
 /* End Whatsapp contact info. */
 
