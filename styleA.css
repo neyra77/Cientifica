@@ -61,18 +61,10 @@ span.post {
 }
 /* End Intro rules */
 
-
-
-/* Whatsapp contact info. */
-.whatsappinfo {
-	/*text-decoration: none;
-	color: #1ebea5;*/
-	background-color: #01e675;
+.contact_info > a {
 	color: #fff !important;
 	border-radius: 40px;
-	display: inline- block;
-	font-weight: 500px;
-	font-size: 9px;
+	font-size: 10px;
 	letter-spacing: 0.071em;
 	line-height: 19px;
 	padding: 4.5px 8px;
@@ -80,7 +72,23 @@ span.post {
 	white-space: nowrap;
 	text-decoration: none;
 }
-/* End Whatsapp contact info. */
+
+/* Whatsapp contact info. */
+.whatsappinfo {
+	background-color: #01e675;
+}
+.whatsappinfo:hover {
+	background-color: #1b9a59;
+}
+
+/* Telegram contact info. */
+.telegraminfo{
+	background-color: #5682a3;
+}
+
+.telegraminfo:hover {
+	background-color: #3a6d99;
+}
 
 
 /* Rules for Lists */
@@ -108,11 +116,15 @@ div.semester {
 
 /* Rules for span */
 /* Special spans for any contact info. */
-span.contact_info {
+.preamble {
 	font-family: monospace;
 }
 
+span.email{
+}
+
 span.last_updated {
+	font-family: Arial;
 	font-size: small;
 	text-transform: uppercase;
 	background-color: #fffdd4;
