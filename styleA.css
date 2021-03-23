@@ -116,6 +116,12 @@ div.semester {
 	margin-bottom: 2.5em;
 }
 
+div.banner {
+	font-family: "Comic Sans MS", Tahoma;
+	background: yellow;
+	display: inline-block;
+}
+
 /* Rules for span */
 /* Special spans for any contact info. */
 .preamble {
